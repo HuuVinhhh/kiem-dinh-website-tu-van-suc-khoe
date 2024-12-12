@@ -1,5 +1,5 @@
 # kiem-dinh-website-tu-van-suc-khoe
-Dự án kiểm định website tư vấn sức khỏe (môn học Đánh giá và Kiểm định phần mềm)
+Dự án kiểm định website tư vấn sức khỏe 
 # Kiểm thử Website Tư vấn Sức khỏe
 
 ## Mô tả dự án
